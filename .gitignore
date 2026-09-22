@@ -217,4 +217,9 @@ dbt_internal_packages/
 package-lock.yml
 logs/
 
-/airstats
+# dbt local files
+/airstats/profiles.yml
+/airstats/target/
+/airstats/logs/
+/airstats/dbt_packages/
+/airstats/.user.yml
